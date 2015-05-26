@@ -1,0 +1,30 @@
+#left {
+position: absolute;
+left: 25%;
+width: 22%;
+top: 106px;
+background-color: #256E5E;
+}
+
+body {
+position: absolute;
+left: 25%;
+width: 50%;
+top: 106px;
+background-color: #4A9130;
+overflow: auto;
+}
+
+#right {
+position: absolute;
+left: 25%;
+width: 22%;
+top: 106px;
+background-color: #256E5E;
+overflow: auto;
+}
+
+/*.center {
+	background-color: blue
+}*/
+
